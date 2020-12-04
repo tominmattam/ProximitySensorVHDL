@@ -14,3 +14,7 @@ A proximity sensor is a sensor able to detect the presence of nearby objects wit
 - Combat Ships
 - Fighter Jets
 - Many more..
+
+
+## Block Diagram 
+
