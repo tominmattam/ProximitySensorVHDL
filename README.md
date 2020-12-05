@@ -1,4 +1,4 @@
-# Proximity Sensor using VHDL
+# Proximity Sensor with FPGA using VHDL
 
 A proximity sensor is a sensor able to detect the presence of nearby objects without any physical contact.
 
