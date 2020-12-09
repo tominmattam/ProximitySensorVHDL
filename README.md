@@ -18,5 +18,5 @@ A proximity sensor is a sensor able to detect the presence of nearby objects wit
 
 and many more......
 
-[website]: https://www.tominmattam.me/major-things/proximity-sensor-using-vhdl
+[https://www.tominmattam.me/major-things/proximity-sensor-using-vhdl][website]
 
